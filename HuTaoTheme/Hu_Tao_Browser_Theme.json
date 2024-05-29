@@ -126,12 +126,7 @@
         "newTab": true,
         "string": "aaugh"
       },
-      "order": [
-        "clock",
-        "date",
-        "search",
-        "toolbar"
-      ],
+      "order": ["clock", "date", "search", "toolbar"],
       "edit": false
     },
     "bookmark": {
@@ -497,7 +492,7 @@
               },
               "type": "video",
               "image": {
-                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_Google_Theme_3.png",
+                "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_Google_Theme_3.png",
                 "blur": 0,
                 "opacity": 100,
                 "scale": 100,
@@ -510,7 +505,7 @@
                 }
               },
               "video": {
-                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/2021-08-23_03-50-12_2_3.mp4",
+                "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/2021-08-23_03-50-12_2_3.mp4",
                 "blur": 0,
                 "opacity": 100,
                 "scale": 100,
@@ -716,7 +711,7 @@
         },
         "type": "image",
         "image": {
-          "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1206_-_1.png",
+          "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1206_-_1.png",
           "blur": 0,
           "opacity": 100,
           "scale": 100,
@@ -729,7 +724,7 @@
           }
         },
         "video": {
-          "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/2021-08-23_03-50-12_2_3.mp4",
+          "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/2021-08-23_03-50-12_2_3.mp4",
           "blur": 0,
           "opacity": 100,
           "scale": 100,
@@ -823,7 +818,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1202.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1202.png"
             },
             "video": {
               "url": ""
@@ -905,7 +900,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_682_2.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_682_2.png"
             },
             "video": {
               "url": ""
@@ -936,7 +931,7 @@
                 "text": ""
               },
               "image": {
-                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Untitled-6.png"
+                "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Untitled-6.png"
               },
               "icon": {
                 "name": "",
@@ -987,7 +982,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1228_1.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1228_1.png"
             },
             "video": {
               "url": ""
@@ -1069,7 +1064,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1147.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1147.png"
             },
             "video": {
               "url": ""
@@ -1151,7 +1146,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_963.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_963.png"
             },
             "video": {
               "url": ""
@@ -1233,7 +1228,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_53_6.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_53_6.png"
             },
             "video": {
               "url": ""
@@ -1315,7 +1310,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_527_1.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_527_1.png"
             },
             "video": {
               "url": ""
@@ -1397,7 +1392,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1102.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1102.png"
             },
             "video": {
               "url": ""
@@ -1479,7 +1474,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_959.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_959.png"
             },
             "video": {
               "url": ""
@@ -1561,7 +1556,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_689.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_689.png"
             },
             "video": {
               "url": ""
@@ -1592,7 +1587,7 @@
                 "text": ""
               },
               "image": {
-                "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Untitled-8.png"
+                "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Untitled-8.png"
               },
               "icon": {
                 "name": "",
@@ -1643,7 +1638,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_1048.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_1048.png"
             },
             "video": {
               "url": ""
@@ -1725,7 +1720,7 @@
             "type": "image",
             "opacity": 100,
             "image": {
-              "url": "https://raw.githubusercontent.com/1kill2steal/nighttab-browser-theme/main/HuTaoTheme/Images/Hu_Tao_206.png"
+              "url": "https://codeberg.org/1Kill2Steal/nighttab-theme/raw/branch/main/HuTaoTheme/Images/Hu_Tao_206.png"
             },
             "video": {
               "url": ""
